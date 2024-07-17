@@ -1,14 +1,14 @@
-### Hi there 👋
-
+### Hi there 👋🏾
 I'm a passionate Software Engineer with 12+ years of experience! 🚀
 
-- 👨‍💻 I love coding, solving problems, and learning new technologies.
+- 👨🏾‍💻 I love coding, solving problems, and learning new technologies.
 - 💼 With over a decade in the industry, I've honed my skills in various domains and technologies.
-- 🤝 I'm open to collaborating on interesting projects and innovative ideas.
+- 🤝🏾 I'm open to collaborating on interesting projects and innovative ideas.
 
 Feel free to browse my repositories and don't hesitate to reach out!
 
 Happy coding! 😊
+
 
  ### Languages and Tools:
 ![C](https://img.shields.io/badge/c-%23239120.svg?style=for-the-badge&logo=c&logoColor=white)
