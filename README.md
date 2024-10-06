@@ -1,4 +1,6 @@
+<img style="width:100%" src="https://github.com/user-attachments/assets/95ee0f06-f923-4c9d-954b-693556de19b9" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"><br/>
 ### Hi there 👋🏾
+
 I'm a passionate Software Engineer with 12+ years of experience! 🚀
 
 - 👨🏾‍💻 I love coding, solving problems, and learning new technologies.
