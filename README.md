@@ -23,4 +23,3 @@ Happy coding! 😊
 
 ### Stats:
 ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=schulerj89&theme=tokyonight&hide_border=true)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=schulerj89&theme=github_dark)
