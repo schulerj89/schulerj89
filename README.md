@@ -22,4 +22,5 @@ Happy coding! 😊
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ### Stats:
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=schulerj89&theme=tokyonight&hide_border=true)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=schulerj89&theme=github_dark)
