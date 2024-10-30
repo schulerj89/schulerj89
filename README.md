@@ -1,4 +1,4 @@
-### Hello there 👋🏾
+### Hey there 👋🏾
 
 I'm a passionate Software Engineer with 13+ years of experience! 🚀
 
