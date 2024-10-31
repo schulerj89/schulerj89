@@ -28,4 +28,4 @@ Happy coding! 😊
 ### Stats:
 ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=schulerj89&theme=tokyonight&hide_border=true)
 
-![GitHub PR Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=schulerj89&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![GitHub PR Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=schulerj89&theme=vue-dark&show_icons=true&hide_border=true&hide_progress=true)
