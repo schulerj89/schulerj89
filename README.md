@@ -26,6 +26,6 @@ Happy coding! 😊
 ![C](https://img.shields.io/badge/c-%23239120.svg?style=for-the-badge&logo=c&logoColor=white)
 
 ### Stats:
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=schulerj89&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=schulerj89&theme=tokyonight&hide_border=true&hide_total_contributions=true)
 
 ![GitHub PR Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=schulerj89&theme=vue-dark&show_icons=true&hide_border=true&hide_progress=true)
