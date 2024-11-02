@@ -23,7 +23,6 @@ Happy coding! 😊
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![C](https://img.shields.io/badge/c-%23239120.svg?style=for-the-badge&logo=c&logoColor=white)
 
 ### Stats:
 ![GitHub PR Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=schulerj89&theme=vue-dark&show_icons=true&hide_border=true&hide_progress=true)
