@@ -9,7 +9,3 @@ I'm a passionate Software Engineer with over 13 years of experience! 🚀
 Feel free to explore my repositories, and don't hesitate to connect!
 
 Happy coding! 😊
-
-### Languages and Tools:
-
-![GitHub PR Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=schulerj89&theme=vue-dark&show_icons=true&hide_border=true&hide_progress=true)
