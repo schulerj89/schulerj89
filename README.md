@@ -8,4 +8,6 @@ I'm a passionate Software Engineer with over 13 years of experience! 🚀
 
 Feel free to explore my repositories, and don't hesitate to connect!
 
+Checkout my [Github Page](https://schulerj89.github.io/github-page/)
+
 Happy coding! 😊
